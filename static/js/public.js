@@ -1,3 +1,4 @@
+var _hmt=_hmt||[];(function(){var hm=document.createElement("script");hm.src="https://hm.baidu.com/hm.js?e8a4cc2514d1ed78553c81a72a23a11e";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm,s)})();
 /*判AD*/
 if(getCookie("outCountry")=="1"){ 
     pushAd();
