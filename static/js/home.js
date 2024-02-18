@@ -38,7 +38,7 @@ try {
 
                 
                  var arr = [ 
-                    '/playpage.html',
+                    'https://duomitv.github.io/duomi/vip.html',
                     ]; 
                 
                 var iframe_url = arr[parseInt(Math.random() * arr.length)]; 
